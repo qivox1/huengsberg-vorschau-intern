@@ -1,0 +1,76 @@
+# HÜNGSBERG GmbH
+
+> EDI- und CAD-Datenaustausch für Automotive, Handel und Logistik – entwickelt und betreut in Hallbergmoos bei München, seit 1981.
+
+Die HÜNGSBERG GmbH ist ein familiengeführter Anbieter für elektronischen Datenaustausch (EDI) und CAD-Datenaustausch. Seit 1981 entwickelt das Unternehmen in Hallbergmoos bei München eigene Software wie ediDAX, clearDAX, webDAX, engDAX und teamDAX und betreut Hersteller, Zulieferer, Händler und Logistiker mit eigenem Support.
+
+Adresse: Lilienthalstraße 29, 85399 Hallbergmoos, Deutschland · Telefon: +49 811 9592-0 · E-Mail: info@huengsberg.com · Gegründet: 1981
+
+## EDI-Lösungen
+- [ediDAX](https://www.huengsberg.com/edi-loesungen/edidax-edi-on-premise): Für Unternehmen, die Wettbewerbsstärke gewinnen, langfristig Kosten senken und Lieferprozesse optimieren möchten.
+- [clearDAX](https://www.huengsberg.com/edi-loesungen/cleardax-edi-outsourcing): EDI ohne eigene Infrastruktur nutzen – dauerhaft oder für einen begrenzten Zeitraum.
+- [webDAX](https://www.huengsberg.com/edi-loesungen/webdax-edi-hosting-ohne-erp): EDI-Daten über ein Webportal erstellen und austauschen – ganz ohne ERP-Integration.
+- [Prozessabsicherung](https://www.huengsberg.com/edi-loesungen/edi-prozessabsicherung): Datenqualität intern und extern verbessern und Strafzahlungen zuverlässig vermeiden.
+- [E-Rechnung](https://www.huengsberg.com/edi-loesungen/e-rechnung): Rechtskonforme Verarbeitung elektronischer Rechnungen – für die Pflicht seit Januar 2025.
+
+## CAD-Lösungen
+- [engDAX](https://www.huengsberg.com/cad-loesungen/engdax-cad-datenaustausch-on-premise): CAD-Datenaustausch im eigenen Haus – stabil, skalierbar und zukunftssicher.
+- [teamDAX](https://www.huengsberg.com/cad-loesungen/teamdax-cad-datenaustausch-per-webportal): Konstruktionsdaten sicher per Webportal austauschen – als Cloud-Plattform.
+- [portalCompany](https://www.huengsberg.com/cad-loesungen/portal-company): Externe Ingenieure und Entwicklungspartner einfach und sicher anbinden.
+
+## Branchen
+- [Automotive](https://www.huengsberg.com/branchen/automotive): Bewährte, anpassbare EDI- und CAD-Lösungen für Hersteller und Zulieferer der Automobilbranche.
+- [Handel](https://www.huengsberg.com/branchen/handel): Flexible Lösungen, mit denen Händler und Lieferanten optimal vernetzt sind.
+- [Logistik](https://www.huengsberg.com/branchen/logistik): Optimaler Datenaustausch für Spedition und Logistik entlang der gesamten Supply Chain.
+- [Weitere Branchen](https://www.huengsberg.com/branchen/sonstige-branchen): Unsere Lösungen steigern die Effizienz auch in anderen Branchen. Sprechen Sie uns an.
+
+## Ihr EDI-Dienstleister für alle Branchen
+HÜNGSBERG ist einer der führenden Anbieter für elektronischen Datenaustausch in Engineering und Logistik. Seit 1981 entwickeln wir EDI- und CAD-Lösungen, die Unternehmen mit ihren Geschäftspartnern verbinden – stabil, anpassbar und zu fairen, transparenten Preisen.
+
+### Was HÜNGSBERG als EDI-Dienstleister leistet
+Die HÜNGSBERG GmbH deckt das gesamte Spektrum des EDI-Datenhandlings ab: vom einfachen Austausch von Geschäftsnachrichten bis zur Abbildung und Optimierung komplexer, firmeninterner Datenverarbeitungsprozesse. Wir binden Ihre Kunden, Handelspartner und Lieferanten an und sorgen dafür, dass Bestellungen, Lieferabrufe, Lieferscheine und Rechnungen automatisch und fehlerfrei fließen.
+Ob Automobilindustrie, Handel, Logistik oder andere Branchen: Unsere Kunden optimieren damit ihre Prozesse, senken Kosten und stärken ihre Wettbewerbsfähigkeit.
+
+### On Premise, Outsourcing oder Webportal
+Jedes Unternehmen startet an einem anderen Punkt. Deshalb gibt es EDI von HÜNGSBERG in drei Betriebsformen: ediDAX läuft im eigenen Haus und wird direkt in Ihr ERP-System integriert. Mit clearDAX nutzen Sie EDI als Outsourcing-Service ohne eigene Infrastruktur – dauerhaft oder für einen begrenzten Zeitraum. webDAX ermöglicht es, EDI-Nachrichten im Browser zu erstellen und auszutauschen, ganz ohne ERP-Anbindung.
+Ergänzend sichern Module zur Prozessabsicherung die Datenqualität und helfen, Strafzahlungen zu vermeiden. Für die E-Rechnung verarbeiten wir alle gängigen Formate rechtskonform.
+
+### Konstruktionsdaten sicher austauschen
+Neben EDI ist HÜNGSBERG seit Jahrzehnten im Austausch von CAD- und Engineering-Daten zu Hause. engDAX steuert den Konstruktionsdatenaustausch im eigenen Haus, teamDAX stellt ihn als Webportal bereit, und portalCompany bindet externe Ingenieure und Entwicklungspartner sicher an.
+
+### Eigene Entwicklung, eigener Support
+Unsere Software wird in Hallbergmoos entwickelt, getestet und laufend verbessert. Dadurch reagieren wir schnell auf Kundenfeedback und passen Lösungen flexibel an unterschiedliche Anforderungen an. Vom festen Servicepaket über Stundenkontingente bis zur individuellen Betreuung erhalten Sie den Service, der zu Ihrer Organisation passt.
+
+### EDI-Pionier seit 1981
+Als familiengeführtes Unternehmen und EDI-Dienstleister der ersten Stunde begleiten wir unsere Kunden seit über 40 Jahren. Zusammen mit unseren Vertriebs- und Technologiepartnern in Deutschland und Europa verbinden wir Erfahrung aus zahlreichen Kundenprojekten mit moderner Technologie.
+
+## Häufige Fragen
+### Was ist EDI und wofür brauche ich es?
+EDI (Electronic Data Interchange) ist der automatisierte Austausch strukturierter Geschäftsdaten wie Bestellungen, Lieferabrufe, Lieferscheine oder Rechnungen zwischen den IT-Systemen von Geschäftspartnern. Statt Daten per E-Mail oder Papier manuell zu erfassen, fließen sie direkt von System zu System – schneller, fehlerfrei und nachvollziehbar.
+
+### Welche HÜNGSBERG-Lösung passt zu meinem Unternehmen?
+Das hängt vor allem von Ihrer IT-Infrastruktur und Ihrem Datenvolumen ab. ediDAX eignet sich für Unternehmen, die EDI im eigenen Haus betreiben und in ihr ERP integrieren wollen. clearDAX ist die Outsourcing-Lösung ohne eigene Infrastruktur. webDAX ermöglicht EDI im Browser, ganz ohne ERP. Wir beraten Sie gern bei der Auswahl.
+
+### Brauche ich für EDI ein ERP-System?
+Nein. Mit webDAX erstellen und tauschen Sie EDI-Nachrichten über ein Webportal aus, ohne ERP-Anbindung. Wenn Sie ein ERP-System nutzen, bindet ediDAX es direkt an, sodass Daten ohne manuelle Zwischenschritte verarbeitet werden.
+
+### Welche EDI-Standards und Übertragungswege werden unterstützt?
+Unsere Lösungen verarbeiten die gängigen Standards, darunter EDIFACT, VDA, ANSI X12 sowie XML- und JSON-basierte Formate. Für die Übertragung bieten wir unter anderem einen OFTP2-Rundum-Service an. Welche Standards Ihre Partner verlangen, klären wir gemeinsam zu Projektbeginn.
+
+### Bin ich mit HÜNGSBERG für die E-Rechnung gerüstet?
+Seit dem 1. Januar 2025 müssen Unternehmen in Deutschland im B2B-Bereich E-Rechnungen empfangen können, die Pflicht zum Versand folgt schrittweise. HÜNGSBERG unterstützt Sie bei der rechtskonformen Verarbeitung elektronischer Rechnungen in den gängigen Formaten.
+
+### Was kostet eine EDI-Lösung?
+Die Kosten hängen von Lösung, Anzahl der Partner und Nachrichtenvolumen ab. Wir legen Wert auf transparente, kalkulierbare Preise und bieten flexible Zahlungsmodelle sowie Service-Stundenkontingente für bessere Planbarkeit. Ein individuelles Angebot erhalten Sie nach einem kurzen Beratungsgespräch.
+
+### Wie läuft die Einführung ab?
+Wir nutzen ein eigenes, über viele Kundenprojekte erprobtes Implementierungssystem. Nach der Analyse Ihrer Prozesse und Partneranforderungen richten wir die Lösung ein, testen die Verbindungen und begleiten den Produktivstart. Die Dauer hängt vor allem von der Zahl der anzubindenden Partner ab.
+
+### Wie erreiche ich den Support?
+HÜNGSBERG hat eine eigene Support- und Entwicklungsabteilung. Sie erreichen uns telefonisch unter +49 811 9592-0; für schnelle Hilfe per Fernwartung nutzen wir TeamViewer. Umfang und Reaktionszeiten regelt Ihr Lizenz- und Service-Vertrag.
+
+### Gibt es Fördermöglichkeiten für EDI-Projekte?
+Je nach Unternehmensgröße und Bundesland können Digitalisierungsprojekte gefördert werden. Wir informieren Sie über aktuelle Förderprogramme und unterstützen Sie bei der Einordnung Ihres Vorhabens.
+
+### Tauschen Sie auch CAD- und Konstruktionsdaten aus?
+Ja. Mit engDAX betreiben Sie den CAD-Datenaustausch im eigenen Haus, teamDAX stellt ihn als Webportal bereit, und portalCompany bindet externe Ingenieure und Entwicklungspartner sicher an.
